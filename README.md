@@ -6,6 +6,7 @@ Natural language processing (NLP) is a machine learning technology that gives co
 1. Download NLTK 
 
 import nltk
+
 nltk.download()
 
 # Sentiment Analysis
